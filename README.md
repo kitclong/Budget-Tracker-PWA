@@ -14,6 +14,7 @@ The purpose of this educational assignment was to practice developing progressiv
 
 ![Screenshot of page](assets/pic1.PNG)
 ![Screenshot of page](assets/pic2.PNG)
+![Screenshot of page](assets/pic3.PNG)
 
 ## Use:
 
